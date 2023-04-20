@@ -94,7 +94,7 @@ const HomeScreen = ({ navigation }) => {
         />
       </View>
       <Text style={{ textAlign: "center", marginBottom:10,}}>
-        Copyright Fujita Rahmah | 120140070
+        Copyright Sinta Dwi Putri | 120140033
       </Text>
     </View>
   );
