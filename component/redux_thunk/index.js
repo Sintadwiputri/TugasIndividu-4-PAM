@@ -24,7 +24,7 @@ export default ({ navigation }) => {
         <Counter />
         <Text style={styles.copyright_1}>
           {" "}
-          Shah Raja Abdullah Al Turtusi - 120140064
+          Sinta Dwi Putri - 120140033
         </Text>
       </View>
     </Provider>
